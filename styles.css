@@ -244,6 +244,7 @@ span {
 
 .portfolio {
     background: var(--second-bg-color);
+    align-items: center;
 }
 
 .portfolio h2 {
