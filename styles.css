@@ -105,7 +105,8 @@ span {
 }
 
 .home-img img {
-    width: 30vw;
+    width: 35vw;
+    align-items: right;
     animation: floatImage 4s ease-in-out infinite;
 }
 
